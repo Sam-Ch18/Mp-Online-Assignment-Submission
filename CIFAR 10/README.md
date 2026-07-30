@@ -181,6 +181,3 @@ jupyter notebook "CIFAR-10 Sambhav Chhayala.ipynb"
 
 ---
 
-<p align="center">
-  <i>Built with ❤️ using Python & TensorFlow</i>
-</p>
