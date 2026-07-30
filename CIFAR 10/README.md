@@ -1,14 +1,14 @@
 # 🖼️ CIFAR-10 Image Classification using CNN
 
-**Name:** Akshat Garg  
+**Name:** Sambhav Chhayala  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE10380
 
-**Application Number:** IN26011052
+**Application Number:** IN26011187
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in
+**Email ID:** sambhav.chhayala@gmail.com
 
 A deep learning project that classifies **32×32 RGB images** into **10 categories** using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **85%+ accuracy**.
 
