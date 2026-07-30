@@ -1,15 +1,14 @@
 # 📂 AI & Machine Learning Projects Portfolio
 
-**Name:** Akshat Garg  
+**Name:** Sambhav Chhayala  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE10380
 
-**Application Number:** IN26011052
+**Application Number:** IN26011187
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
-
+**Email ID:** sambhav.chhayala@gmail.com
 ---
 
 A collection of **9 projects** spanning Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Reinforcement Learning — built with Python, TensorFlow, Scikit-learn, Flask, and more.
