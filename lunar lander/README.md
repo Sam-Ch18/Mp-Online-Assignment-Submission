@@ -3,16 +3,15 @@
 A Deep Reinforcement Learning project focused on training an autonomous spacecraft agent to safely land on a designated landing pad using the Box2D physics engine physics simulator. 
 
 ## Developer Information
-**Name:** Akshat Garg  
+**Name:** Sambhav Chhayala  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE10380
 
-**Application Number:** IN26011052
+**Application Number:** IN26011187
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
-
+**Email ID:** sambhav.chhayala@gmail.com
 * **Development Environment:** macOS (Apple Silicon M2 Pro/Max/Base architecture)
 
 ---
